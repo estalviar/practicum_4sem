@@ -1,0 +1,237 @@
+INFO:root:Starting server...
+INFO:root:Прослушивание порта 5050
+INFO:root:127.0.0.1, 58152 подсоединился
+INFO:root:User with ip ('127.0.0.1', 58152) connected
+INFO:root:Server is shutting down
+INFO:root:Starting server...
+INFO:root:Прослушивание порта 5050
+INFO:root:Starting server...
+INFO:root:Прослушивание порта 5050
+INFO:root:Starting server...
+INFO:root:Прослушивание порта 5050
+INFO:root:127.0.0.1, 60072 подсоединился
+INFO:root:Starting server...
+INFO:root:Starting server...
+INFO:root:Прослушивание порта 5050
+INFO:root:127.0.0.1, 60258 подсоединился
+INFO:root:User with ip ('127.0.0.1', 60258) connected
+INFO:root:
+Receiving data from client:
+INFO:root:hi
+INFO:root:exit command found
+INFO:root:Starting server...
+INFO:root:Прослушивание порта 5050
+INFO:root:127.0.0.1, 60390 подсоединился
+INFO:root:User with ip ('127.0.0.1', 60390) connected
+INFO:root:
+Receiving data from client:
+INFO:root:hi
+INFO:root:
+Receiving data from client:
+INFO:root:hi
+INFO:root:Server is shutting down
+INFO:root:Starting server...
+INFO:root:Прослушивание порта 2400
+INFO:root:127.0.0.1, 60463 подсоединился
+INFO:root:User with ip ('127.0.0.1', 60463) connected
+INFO:root:
+Receiving data from client:
+INFO:root:hi
+INFO:root:
+Receiving data from client:
+INFO:root:hii
+INFO:root:
+Receiving data from client:
+INFO:root:hii
+INFO:root:
+Receiving data from client:
+INFO:root:exit
+INFO:root:here
+INFO:root:Starting server...
+INFO:root:Прослушивание порта 5050
+INFO:root:127.0.0.1, 60649 подсоединился
+INFO:root:User with ip ('127.0.0.1', 60649) connected
+INFO:root:
+Receiving data from client:
+INFO:root:hi
+INFO:root:
+Receiving data from client:
+INFO:root:exit
+INFO:root:here
+INFO:root:Starting server...
+INFO:root:Прослушивание порта 5050
+INFO:root:127.0.0.1, 60885 подсоединился
+INFO:root:User with ip ('127.0.0.1', 60885) connected
+INFO:root:
+Receiving data from client:
+INFO:root:exit
+INFO:root:here
+INFO:root:127.0.0.1, 60898 подсоединился
+INFO:root:User with ip ('127.0.0.1', 60898) connected
+INFO:root:
+Receiving data from client:
+INFO:root:hi
+INFO:root:exit command found
+INFO:root:Starting server...
+INFO:root:Прослушивание порта 5050
+INFO:root:Starting server...
+INFO:root:Прослушивание порта 4050
+INFO:root:127.0.0.1, 62089 подсоединился
+INFO:root:User with ip ('127.0.0.1', 62089) connected
+INFO:root:
+Receiving data from client:
+INFO:root:exit
+INFO:root:here
+INFO:root:127.0.0.1, 62100 подсоединился
+INFO:root:User with ip ('127.0.0.1', 62100) connected
+INFO:root:Server is shutting down
+INFO:root:Starting server...
+INFO:root:Прослушивание порта 5050
+INFO:root:127.0.0.1, 62107 подсоединился
+INFO:root:User with ip ('127.0.0.1', 62107) connected
+INFO:root:Starting server...
+INFO:root:Прослушивание порта 5050
+INFO:root:Geraпытался подключиться
+INFO:root:127.0.0.1, 62117 подсоединился
+INFO:root:User with ip ('127.0.0.1', 62117) connected
+INFO:root:Starting server...
+INFO:root:Прослушивание порта 5050
+INFO:root:Geraпытался подключиться
+INFO:root:127.0.0.1, 62186 подсоединился
+INFO:root:Starting server...
+INFO:root:Прослушивание порта 5050
+INFO:root:Geraпытался подключиться
+INFO:root:Geraпытался подключиться
+INFO:root:Сервер запущен
+INFO:root:Прослушивание порта 5050
+INFO:root:Сервер запущен
+INFO:root:Прослушивание порта 5050
+INFO:root:
+Получаем данные от клиента:
+INFO:root:hi
+INFO:root:exit команда получена
+INFO:root:Сервер запущен
+INFO:root:Прослушивание порта 5050
+INFO:root:
+Получаем данные от клиента:hi длинной 2
+INFO:root:Сервер отключен
+INFO:root:Сервер запущен
+INFO:root:Прослушивание порта 5050
+INFO:root:
+Получаем данные от клиента: hi
+INFO:root:
+Получаем данные от клиента: exit
+INFO:root:here
+INFO:root:
+Получаем данные от клиента: рш
+INFO:root:Сервер отключен
+INFO:root:Сервер запущен
+INFO:root:Прослушивание порта 5050
+INFO:root:Сервер запущен
+INFO:root:Сервер запущен
+INFO:root:Прослушивание порта 5050
+INFO:root:Сервер запущен
+INFO:root:Прослушивание порта 5050
+INFO:root:Сервер запущен
+INFO:root:Прослушивание порта 5050
+INFO:root:Сервер запущен
+INFO:root:Прослушивание порта 5050
+INFO:root:Сервер запущен
+INFO:root:Прослушивание порта 5050
+INFO:root:127.0.0.1, 61186 подсоединился
+INFO:root:
+Получаем данные от клиента: hi
+INFO:root:exit команда получена
+INFO:root:Сервер запущен
+INFO:root:Прослушивание порта 5050
+INFO:root:
+Получаем данные от клиента: hi
+INFO:root:
+Получаем данные от клиента: hi
+INFO:root:exit команда получена
+INFO:root:Сервер запущен
+INFO:root:Прослушивание порта 5050
+INFO:root:127.0.0.1, 49627 подсоединился
+INFO:root:
+Получаем данные от клиента: exit
+INFO:root:Клиент отключился
+INFO:root:127.0.0.1, 49711 подсоединился
+INFO:root:
+Получаем данные от клиента: hi
+INFO:root:exit команда получена
+INFO:root:Сервер запущен
+INFO:root:Прослушивание порта 5050
+INFO:root:127.0.0.1, 49785 подсоединился
+INFO:root:
+Получаем данные от клиента: hi
+INFO:root:
+Получаем данные от клиента: hi
+INFO:root:exit команда получена
+INFO:root:Сервер запущен
+INFO:root:Прослушивание порта 5050
+INFO:root:127.0.0.1, 49845 подсоединился
+INFO:root:
+Получаем данные от клиента: exit
+INFO:root:Клиент отключился
+INFO:root:127.0.0.1, 49880 подсоединился
+INFO:root:
+Получаем данные от клиента: exit
+INFO:root:Клиент отключился
+INFO:root:127.0.0.1, 49913 подсоединился
+INFO:root:
+Получаем данные от клиента: exit
+INFO:root:Клиент отключился
+INFO:root:127.0.0.1, 49936 подсоединился
+INFO:root:
+Получаем данные от клиента: exit
+INFO:root:Клиент отключился
+INFO:root:127.0.0.1, 50054 подсоединился
+INFO:root:
+Получаем данные от клиента: exit
+INFO:root:Клиент отключился
+INFO:root:127.0.0.1, 50077 подсоединился
+INFO:root:
+Получаем данные от клиента: exit
+INFO:root:Клиент отключился
+INFO:root:127.0.0.1, 50129 подсоединился
+INFO:root:
+Получаем данные от клиента: exit
+INFO:root:Клиент отключился
+INFO:root:������ �������
+INFO:root:������������� ����� 5050
+INFO:root:127.0.0.1, 62063 �������������
+INFO:root:
+�������� ������ �� �������: hi
+INFO:root:������ �������
+INFO:root:������������� ����� 5050
+INFO:root:127.0.0.1, 62080 �������������
+INFO:root:
+�������� ������ �� �������: hi
+INFO:root:������ ��������
+INFO:root:������ �������
+INFO:root:������������� ����� 5050
+INFO:root:127.0.0.1, 62156 �������������
+INFO:root:
+�������� ������ �� �������: exit
+INFO:root:������ ����������
+INFO:root:127.0.0.1, 62163 �������������
+INFO:root:
+�������� ������ �� �������: exit
+INFO:root:������ ����������
+INFO:root:Сервер запущен
+INFO:root:Прослушивание порта 5050
+INFO:root:127.0.0.1, 62565 подсоединился
+INFO:root:
+Получаем данные от клиента: hi
+INFO:root:
+Получаем данные от клиента: exit
+INFO:root:Клиент отключился
+INFO:root:Сервер запущен
+INFO:root:Прослушивание порта 5050
+INFO:root:127.0.0.1, 51666 подсоединился
+INFO:root:
+Получаем данные от клиента: exit
+INFO:root:Клиент отключился
+INFO:root:127.0.0.1, 51668 подсоединился
+INFO:root:
+Получаем данные от клиента: hi
